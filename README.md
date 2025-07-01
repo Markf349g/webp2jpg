@@ -1,15 +1,15 @@
-## 🛠️ Developer Note
-
-> **⚠️ This tool is currently in active development.**  
-> The final release will include enhancements and remove this message.
-
----
-
 🖼️ WebP ➜ JPG Converter – Effortless CLI Tool with Drag & Drop Magic
 
 A lightweight and cross-platform command-line tool written in **pure Go** for converting `.webp` images to `.jpg`. Built to simplify workflows where `.webp` is unsupported (e.g., Microsoft Office tools like Excel, Word, PowerPoint).
 
 Just **drag & drop files onto the executable**, and it will output converted `.jpg` images to the **same folder**.
+
+## 🛠️ Developer Note
+
+---
+
+> **⚠️ This tool is currently in active development.**  
+> The final release will include enhancements and remove this message.
 
 ---
 
