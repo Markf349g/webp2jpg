@@ -4,9 +4,9 @@ A lightweight and cross-platform command-line tool written in **pure Go** for co
 
 Just **drag & drop files onto the executable**, and it will output converted `.jpg` images to the **same folder**.
 
-## 🛠️ Developer Note
 
 ---
+## 🛠️ Developer Note
 
 > **⚠️ This tool is currently in active development.**  
 > The final release will include enhancements and remove this message.
